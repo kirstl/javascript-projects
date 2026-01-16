@@ -10,3 +10,8 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+
+   //This is the comment exercise
+   /*this is 
+   a multi-line comment*/ 
+   console.log("This line will print, unlike the comments!");
