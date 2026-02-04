@@ -6,6 +6,7 @@ console.log(word.toUpperCase());
 //Returns ``JAVASCRIPT``
 
 //What does ``word.slice(4).toUpperCase()`` return?
-
+//SCRIPT
 
 //Experiment with other combinations (chains) of string methods.
+console.log(word.toLowerCase().replace('s', 'a'));
